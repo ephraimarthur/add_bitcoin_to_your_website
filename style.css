@@ -1,0 +1,33 @@
+.products_container {
+	max-width:300px;
+	height: auto;
+	margin: auto;
+	padding:1%;
+	margin-top: 2%;
+	border:1px solid grey;
+
+}
+
+.products_container img {
+	width:	280px;
+	height: auto; 
+}
+
+.product_name {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	font-family:arial black;
+	margin: 1%;
+}
+
+
+.price {
+	font-size: 26px;
+	text-align: center;
+}
+
+.dollar_sign {
+	font-size:18px;
+	 
+}
